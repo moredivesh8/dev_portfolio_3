@@ -1,0 +1,6 @@
+{
+  "name": "Divesh | Interactive Developer Portfolio",
+  "description": "High-performance multi-page developer portfolio with 3D Canvas visual elements, interactive skill node map, filtered project showcase, and built-in CLI terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
